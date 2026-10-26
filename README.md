@@ -11,7 +11,7 @@
 
 </div>
 
-## `> whoami`
+## `> who am i`
 
 I'm **Kartik**, an engineering-focused builder exploring where **digital hardware, software, and intelligent systems** meet. I enjoy going beyond a working demo to understand *why* a system works, how it fails, and how to make it more reliable.
 
