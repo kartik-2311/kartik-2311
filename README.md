@@ -15,7 +15,7 @@
 
 I'm **Kartik**, an engineering-focused builder exploring where **digital hardware, software, and intelligent systems** meet. I enjoy going beyond a working demo to understand *why* a system works, how it fails, and how to make it more reliable.
 
-- 🔭 **Building and exploring:** RTL design, clock-domain crossing, Python systems and multi-agent AI
+- 🔭 **Building and exploring:** RTL design, clock-domain crossing, formal verification and Python systems
 - 🔐 **Currently interested in:** AXI4-Lite security, protocol robustness and hardware verification
 - 🧠 **Curious about:** dependable systems, automation and the boundary between hardware and software
 - ⚡ **Approach:** learn deeply, test assumptions, keep building
@@ -49,9 +49,9 @@ I'm **Kartik**, an engineering-focused builder exploring where **digital hardwar
 <p align="center"><a href="https://github.com/kartik-2311/async-fifo-gray-cdc"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Async FIFO repository" /></a></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🤖 StockAgent</h3>
-<p>A Python-based multi-agent AI project that uses language models to simulate investor behavior and explore decision-making in financial-market environments.</p>
-<p align="center"><a href="https://github.com/kartik-2311/Stockagent-main"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="StockAgent repository" /></a></p>
+<h3 align="center">🧪 Async FIFO · Formal Verification</h3>
+<p>Formal verification of asynchronous FIFO behavior, focused on correctness properties, clock-domain crossing safety, and RTL verification.</p>
+<p align="center"><a href="https://github.com/kartik-2311/async-fifo-formal-verification"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Async FIFO Formal Verification repository" /></a></p>
 </td>
 </tr>
 <tr>
@@ -92,6 +92,8 @@ I'm **Kartik**, an engineering-focused builder exploring where **digital hardwar
 
 <a href="mailto:kartiksingh2311510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kartik" /></a>
 <a href="https://github.com/kartik-2311"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kartik on GitHub" /></a>
+<a href="https://www.instagram.com/kartiks._.23/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kartik on Instagram" /></a>
+<a href="https://pin.it/67bqFUgqD"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Kartik on Pinterest" /></a>
 
 <br/><br/>
 
