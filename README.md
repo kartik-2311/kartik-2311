@@ -56,9 +56,9 @@ I'm **Kartik**, an engineering-focused builder exploring where **digital hardwar
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<h3 align="center">⚙️ ATCS</h3>
-<p align="center">A Python project organized around configurable modules, data and logging.</p>
-<p align="center"><a href="https://github.com/kartik-2311/ATCS"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="ATCS repository" /></a></p>
+<h3 align="center">🔐 AXI4_LITE</h3>
+<p align="center">Exploring AXI4-Lite protocol security, vulnerabilities, and reliable hardware interface design.</p>
+<p align="center"><a href="https://github.com/kartik-2311/AXI4_LITE"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="AXI4_LITE repository" /></a></p>
 </td>
 </tr>
 </table>
