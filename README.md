@@ -1,28 +1,102 @@
-# 💫 About Me:
-I'm just looking around.<br>Exploring stuff.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090e1a,50:123b65,100:00b4d8&text=KARTIK%20SINGH&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Hardware%20%7C%20AI%20%7C%20Systems&descAlignY=61&descSize=18&animation=fadeIn" width="100%" alt="Kartik Singh banner" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartiks._.23) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kartiks2311) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartiksingh2311510@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=730&lines=Building+at+the+intersection+of+hardware+and+software;SystemVerilog+%E2%80%A2+Python+%E2%80%A2+AI;Exploring+RTL+design%2C+CDC+and+security;Curiosity+%E2%86%92+Code+%E2%86%92+Working+Systems" alt="Animated introduction" />
 
+<p>
+<a href="https://github.com/kartik-2311?tab=followers"><img src="https://img.shields.io/github/followers/kartik-2311?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0f172a" alt="GitHub followers" /></a>
+<a href="https://github.com/kartik-2311"><img src="https://komarev.com/ghpvc/?username=kartik-2311&style=for-the-badge&color=0891b2&label=Profile+Views" alt="Profile views" /></a>
+</p>
 
-# 💻 Tech Stack:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Analogue](https://img.shields.io/badge/Analogue-1A1A1A?style=flat&logo=Analogue&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kartik-2311&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kartik-2311&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kartik-2311&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kartik-2311&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## `> whoami`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+I'm **Kartik**, an engineering-focused builder exploring where **digital hardware, software, and intelligent systems** meet. I enjoy going beyond a working demo to understand *why* a system works, how it fails, and how to make it more reliable.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kartik-2311&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 **Building and exploring:** RTL design, clock-domain crossing, Python systems and multi-agent AI
+- 🔐 **Currently interested in:** AXI4-Lite security, protocol robustness and hardware verification
+- 🧠 **Curious about:** dependable systems, automation and the boundary between hardware and software
+- ⚡ **Approach:** learn deeply, test assumptions, keep building
 
----
-[![](https://komarev.com/ghpvc/?username=kartik-2311&icon=0&color=0)](https://visitcount.itsvg.in)
+## `> tech_stack --list`
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**Languages and development tools**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,git,github,linux,vscode&theme=dark" alt="Python, C, C++, Git, GitHub, Linux and VS Code icons" />
+
+<br/><br/>
+
+**Specialized areas**
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-RTL%20Design-0B7285?style=for-the-badge)
+![Digital Design](https://img.shields.io/badge/Digital%20Design-CDC%20%26%20FIFOs-1565C0?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Multi--Agent%20Systems-7C3AED?style=for-the-badge)
+![Verification](https://img.shields.io/badge/Verification-Testbenches-0F766E?style=for-the-badge)
+
+</div>
+
+## `> ls featured_projects/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🔁 Async FIFO · Gray-Code CDC</h3>
+<p>A parameterizable SystemVerilog asynchronous FIFO for moving data safely between independent clock domains, with Gray-coded pointers, synchronizers and a self-checking testbench.</p>
+<p align="center"><a href="https://github.com/kartik-2311/async-fifo-gray-cdc"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Async FIFO repository" /></a></p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🤖 StockAgent</h3>
+<p>A Python-based multi-agent AI project that uses language models to simulate investor behavior and explore decision-making in financial-market environments.</p>
+<p align="center"><a href="https://github.com/kartik-2311/Stockagent-main"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="StockAgent repository" /></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3 align="center">⚙️ ATCS</h3>
+<p align="center">A Python project organized around configurable modules, data and logging.</p>
+<p align="center"><a href="https://github.com/kartik-2311/ATCS"><img src="https://img.shields.io/badge/Explore%20Repository-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="ATCS repository" /></a></p>
+</td>
+</tr>
+</table>
+
+## `> cat current_interests.txt`
+
+```text
+[01] Digital hardware       → RTL, FIFO design, clock-domain crossing
+[02] Hardware security     → AXI4-Lite vulnerabilities and mitigation ideas
+[03] Verification         → edge cases, protocol behavior, self-checking tests
+[04] Artificial intelligence → LLM agents and practical Python applications
+[05] Systems thinking     → reliability, correctness and thoughtful design
+```
+
+## `> github --stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kartik-2311&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Kartik GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik-2311&layout=compact&theme=tokyonight&hide_border=true" alt="Most used public repository languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kartik-2311&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+
+<sub>Statistics depend on third-party services and publicly available GitHub activity.</sub>
+
+</div>
+
+## `> connect --with-me`
+
+<div align="center">
+
+<a href="mailto:kartiksingh2311510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kartik" /></a>
+<a href="https://github.com/kartik-2311"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Kartik on GitHub" /></a>
+
+<br/><br/>
+
+<i>"Build it. Break it. Understand it. Improve it."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:090e1a,50:123b65,100:00b4d8" width="100%" alt="Decorative footer" />
+
+</div>
